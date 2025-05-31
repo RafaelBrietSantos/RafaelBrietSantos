@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EwLyzF/giphy.gif" alt="Olá, Mundo da Programação!" width="600"/>
-</p>
+
 
 <h1 align="center">🚀 Olá, Mundo da Programação! 👋</h1>
 
