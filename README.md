@@ -1,9 +1,10 @@
 
 
+
 <h1 align="center">🚀 Olá, Mundo da Programação! 👋</h1>
 
 <p align="center">
-  Bem-vindos ao meu espaço no GitHub! Sou um <b>futuro engenheiro de software</b> e estou super animado para começar minha jornada no universo da programação. Em breve, estarei entrando na **faculdade** para mergulhar de cabeça nesse mundo! 👨‍🎓
+  Bem-vindos ao meu espaço no GitHub! Sou um **futuro engenheiro de software** e estou super animado para começar minha jornada no universo da programação. Acabei de ingressar na **faculdade** para mergulhar de cabeça nesse mundo e já completei minha primeira semana! 👨‍🎓
 </p>
 
 ---
@@ -11,7 +12,7 @@
 ## Meus Primeiros Passos e Estudos 🐍
 
 <p align="center">
-  Minha aventura começou com o <b>Python</b>! Atualmente, estou focado em aprender os fundamentos com o <b>segundo módulo(mundo) do curso em vídeo do Professor Gustavo Guanabara</b>. ✨
+  Minha aventura começou com o **Python**! Atualmente, estou focado em aprender os fundamentos com o **segundo módulo(mundo) do curso em vídeo do Professor Gustavo Guanabara**. ✨
 </p>
 
 <p align="center">
@@ -34,5 +35,4 @@
 <p>
   Sinta-se à vontade para explorar, dar dicas ou deixar suas sugestões. Sua contribuição é super bem-vinda para me ajudar a crescer! 😊
 </p>
-
 ---
