@@ -1,22 +1,42 @@
+<div align="center">
+  <samp>
+    <b>
+      software engineer
+    </b>
+    <br>
+    welcam! i'm Rafael Briet
+    <br>
+  </samp>
+</div>
 
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRafaelBrietSantos&s=15&c=90d8f8&bg=00000000&no=3&ff=digii&tb=profile+visits%3A+&ta=" /></p>
+</div>
 
+<br>
 
-<h1 align="center">🚀 Olá, Mundo da Programação! 👋</h1>
+<div align="center">
+  <img src="https://imgur.com/Sz1u859.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Briet_(⌐■_■)-black" />
+</div>
 
-<p align="center">
-  Bem-vindos ao meu espaço no GitHub! Sou um <b>futuro engenheiro de software</b> e estou super animado para começar minha jornada no universo da programação. Acabei de ingressar na <b>faculdade</b> para mergulhar de cabeça nesse area 👨‍🎓
-</p>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=139ED7&center=true&vCenter=true&width=435&lines=++++++++++++++++I+am+a+software+engineering+student;++++++++++++++++++++++++++++++++++be+welcam;++++++++++++++++++++++++++++++I+am+from+Brazil"/>
+</div>
 
 ---
 
-## Meus Primeiros Passos e Estudos 🐍
+<h2 align="center">🚀 Sobre Mim e Meus Estudos 👋</h2>
 
 <p align="center">
-  Minha aventura começou com o <b>Python</b>! Atualmente, estou focado em aprender os fundamentos com o <b>segundo módulo(mundo) do curso em vídeo do Professor Gustavo Guanabara</b>. ✨
+  Futuro engenheiro de software e apaixonado por programação! Acabei de iniciar a faculdade e estou mergulhando no mundo tech.
 </p>
 
 <p align="center">
-  Estou colocando toda a minha energia e paixão nesse aprendizado, e mal posso esperar para compartilhar cada novo código e desafio superado por aqui. Acompanhe minha evolução! 📈
+  Minha jornada começou com Python, focando nos fundamentos com o Professor Gustavo Guanabara (Mundo 2 - Curso em Vídeo).
+  Estou aqui para aprender, compartilhar e evoluir. Acompanhe meus projetos e sinta-se à vontade para dar dicas! ✨📈
 </p>
 
 <p align="center">
@@ -26,13 +46,63 @@
 
 ---
 
-## O Que Encontrar Por Aqui? 📂
+<details align="center">
+  <summary>
+    <samp>
+      <b>Minhas Estatísticas no GitHub</b>
+    </samp>
+  </summary>
 
-<p>
-  Neste repositório, você vai encontrar os projetos e exercícios que estou desenvolvendo durante meus estudos em Python e, futuramente, os trabalhos da faculdade. Cada linha de código é um passo na minha jornada!
-</p>
+  <br>
 
-<p>
-  Sinta-se à vontade para explorar, dar dicas ou deixar suas sugestões. Sua contribuição é super bem-vinda para me ajudar a crescer! 😊
-</p>
+  <div align="center">
+    <img
+      height=175
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelBrietSantos&theme=react"
+    />
+    <br>
+    <br>
+    <img
+      height=165
+      align="center"
+      alt="Top Languages"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelBrietSantos&theme=react"
+    />
+    <br>
+    <br>
+    <img
+      align="center"
+      alt="Profile Details"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelBrietSantos&theme=react"
+    />
+    <br>
+    <br>
+    <img
+      height=154
+      align="center"
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=RafaelBrietSantos&theme=react&hide_border=true&border_radius=0.7&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=885&card_height=198"
+    />
+  </div>
+
+  <div align="center" style="display: inline_block"><br>
+    <img width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" />
+    <img width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" />
+    <img width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" />
+    </div>
+
+  <br>
+</details>
+
 ---
+<h2 align="center">Contato 📧</h2>
+
+<div align="center">
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rafaelsantosbriet@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rafa.briet/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/briet-rafael-santos-256417369/)
+</div>
