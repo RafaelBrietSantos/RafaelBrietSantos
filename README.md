@@ -38,11 +38,11 @@
   <br>
 
   <p align="center">
-    Futuro **engenheiro de software** e apaixonado por programação! Acabei de iniciar a **faculdade** e estou mergulhando no mundo tech.
+    Futuro engenheiro de software e apaixonado por programação! Acabei de iniciar a faculdade e estou mergulhando no mundo tech.
   </p>
 
   <p align="center">
-    Minha jornada começou com **Python**, focando nos fundamentos com o **Professor Gustavo Guanabara (Mundo 2 - Curso em Vídeo)**.
+    Minha jornada começou com Python, focando nos fundamentos com o Professor Gustavo Guanabara (Mundo 2 - Curso em Vídeo).
     Estou aqui para aprender, compartilhar e evoluir. Acompanhe meus projetos e sinta-se à vontade para dar dicas! ✨📈
   </p>
 
