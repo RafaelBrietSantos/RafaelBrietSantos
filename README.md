@@ -28,21 +28,31 @@
 
 ---
 
-<h2 align="center">🚀 Sobre Mim e Meus Estudos 👋</h2>
+<details align="center">
+  <summary>
+    <samp>
+      <b>🚀 Sobre Mim e Meus Estudos 👋</b>
+    </samp>
+  </summary>
 
-<p align="center">
-  Futuro engenheiro de software e apaixonado por programação! Acabei de iniciar a faculdade e estou mergulhando no mundo tech.
-</p>
+  <br>
 
-<p align="center">
-  Minha jornada começou com Python, focando nos fundamentos com o Professor Gustavo Guanabara (Mundo 2 - Curso em Vídeo).
-  Estou aqui para aprender, compartilhar e evoluir. Acompanhe meus projetos e sinta-se à vontade para dar dicas! ✨📈
-</p>
+  <p align="center">
+    Futuro **engenheiro de software** e apaixonado por programação! Acabei de iniciar a **faculdade** e estou mergulhando no mundo tech.
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Status-Iniciante-green?style=for-the-badge&logo=github&logoColor=white" alt="Iniciante Badge">
-</p>
+  <p align="center">
+    Minha jornada começou com **Python**, focando nos fundamentos com o **Professor Gustavo Guanabara (Mundo 2 - Curso em Vídeo)**.
+    Estou aqui para aprender, compartilhar e evoluir. Acompanhe meus projetos e sinta-se à vontade para dar dicas! ✨📈
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Status-Iniciante-green?style=for-the-badge&logo=github&logoColor=white" alt="Iniciante Badge">
+  </p>
+
+  <br>
+</details>
 
 ---
 
@@ -97,11 +107,11 @@
 </details>
 
 ---
+
 <h2 align="center">Contato 📧</h2>
 
 <div align="center">
   <br>
-
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rafaelsantosbriet@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rafa.briet/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/briet-rafael-santos-256417369/)
