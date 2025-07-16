@@ -38,7 +38,70 @@
   <br>
 
   <p align="center">
-    Futuro engenheiro de software e apaixonado por programação! Acabei de iniciar a faculdade e estou mergulhando no mundo tech.
+    Futuro engenheiro de software e apaixonado por programação! Acabei de iniciar a faculdade e estou mergulhando no mundo tech.                
+    {
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "files.associations": {
+        "*.py": "python"
+    },
+    "git.enableSmartCommit": true,
+    "editor.tabCompletion": "off",
+    "python.defaultInterpreterPath": "F:\\zad\\python.exe",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontSize": 18,
+    "editor.suggest.showInlineDetails": false,
+    "editor.suggest.showIcons": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Min Dark",
+    "editor.minimap.enebled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "apc.header": {
+        "height": 36
+    },
+    "apc.font.family": "Geist Mono",
+      "apc.listRow": {
+    "height": 24
+  },
+  "apc.font.family": "Inter",
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".pane-header": "padding: 0 8px",
+    ".pane-body": "padding: 8px",
+    ".split-view-view:first-child .pane-header": "display: none !important;",
+    ".monaco-list-row": "border-radius: 4px;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+    
+  },
+  "workbench.editor.enablePreview": false,
+  "github.copilot.editor.enableCodeActions": false,
+  "workbench.activityBar.location": "bottom",
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": true
+  },
+  "files.autoSave": "afterDelay",
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+}
+
+
   </p>
 
   <p align="center">
